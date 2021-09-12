@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chetannada
-- 👀 I’m interested in Web Devloping
+- 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on my Project.
 - 📫 How to reach me : you can reach me by my linkedin profile.
