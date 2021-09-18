@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @chetannada
-- 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on my Project.
-- 📫 How to reach me : you can reach me by my linkedin profile.
+Hello World <big>👋</big>
+<ul>
+  <li>I’m a web developer</li>
+  <li>I’m currently learning React JS</li>
+  <li>you can reach me by my linkedin profile.</li>
 
 <!---
 chetannada/chetannada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
