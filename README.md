@@ -1,4 +1,5 @@
 <h1 align="left">Hello world 👋, I'm web developer</h1>
+<img src="https://i.ibb.co/KLWqPyQ/Chetan-Header-new.jpg" alt="Header"/>
 <h3 align="left">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **React Js**
