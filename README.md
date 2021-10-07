@@ -1,8 +1,8 @@
-<h1 align="left">Hello guys 👋, I'm web developer</h1>
+<h1 align="left">Hello guys 👋, I'm React js developer</h1>
 <img src="https://i.ibb.co/KLWqPyQ/Chetan-Header-new.jpg" alt="Header"/>
 <h3 align="left">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning <a href="https://reactjs.org/" target="_blank">**React Js**</a>
+- 🌱 I’m currently doing job in <a href="https://www.baruzotech.com/" target="_blank">**BaruzoTech pvt. ltd.**</a>
 
 - 💻 Check my <a href="https://chetannada.netlify.app/" target="blank">**Portfolio**</a>
 
