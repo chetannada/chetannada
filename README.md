@@ -1,5 +1,5 @@
 <div align= "center"> <h1>Hello 🙏, Developers</h1>
-<img src="https://pbs.twimg.com/profile_banners/3318044642/1664316283/600x200" alt="Header"/> </div>
+<img src="https://media.licdn.com/dms/image/D4D16AQHBayzTuZistw/profile-displaybackgroundimage-shrink_350_1400/0/1672217467531?e=1677715200&v=beta&t=lghifr8zmg5hZzMe81ip81oZ3BTzUTT0ntCvyjeScpY" alt="Header"/> </div>
 <h3 align="left">A passionate frontend developer from India</h3>
 
 🔭 I’m currently working on **React Project.**
