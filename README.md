@@ -23,7 +23,7 @@
 
 :muscle: Passionate about **`Competitive Coding`** <br>
 - 5 :star: in Problem solving at [HackerRank](https://www.hackerrank.com/chetannada)
-- Solved 10+ DSA Problems at [LeetCode](https://leetcode.com/chetannada/)
+- Solved 20+ DSA Problems at [LeetCode](https://leetcode.com/chetannada/)
 
 📫 How to reach me **call2chetannada@gmail.com**
 
