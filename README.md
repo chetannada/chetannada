@@ -22,8 +22,9 @@
 🚀 Love to talk about **Research and Innovation!**
 
 :muscle: Passionate about **`Competitive Coding`** <br>
+- Solved 40+ DSA Problems at **[LeetCode](https://leetcode.com/chetannada/)**
 - 5 :star: in Problem solving at **[HackerRank](https://www.hackerrank.com/chetannada)**
-- Solved 25+ DSA Problems at **[LeetCode](https://leetcode.com/chetannada/)**
+
 
 📫 How to reach me **call2chetannada@gmail.com**
 
