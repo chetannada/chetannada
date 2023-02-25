@@ -2,14 +2,17 @@
   Hi there 👋 I'm Chetan 👨‍💻
 </h1>
 
-<p align='center'>
-  A passionate frontend developer from India
-</p>
+<h3 align='center'>
+  A passionate frontend developer from India <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png" width="25">
+</h3>
+<div align='center'>
+  <img src="https://komarev.com/ghpvc/?username=chetannada&style=flat-square&color=blue" alt=""/>
+</div>
 
 <img src="https://media.licdn.com/dms/image/D4D16AQHBayzTuZistw/profile-displaybackgroundimage-shrink_350_1400/0/1672217467531?e=1677715200&v=beta&t=lghifr8zmg5hZzMe81ip81oZ3BTzUTT0ntCvyjeScpY" alt="Header"/>
 <br/>
 
-🔭 I’m currently working on **[🚀 FoodFire Live Project App Link 😍](https://foodfire-app.netlify.app/)**
+🔭 I’m currently working on **[🚀 FoodFire App](https://foodfire-app.netlify.app/)** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 :nerd_face: I’m currently learning **React js from [Namaste React Live Course](https://learn.namastedev.com/courses/namaste-react-live) by [Akshay Saini](https://www.linkedin.com/in/akshaymarch7/)**
 
@@ -17,12 +20,12 @@
 
 👨‍💻 All of my projects are available at **[My Portfolio](https://chetannada.netlify.app/)**
 
-💬 Ask me about **frontend Development.**
+💬 Ask me about **Frontend Development.**
 
 🚀 Love to talk about **Research and Innovation!**
 
 :muscle: Passionate about **`Competitive Coding`** <br>
-- Solved 40+ DSA Problems at **[LeetCode](https://leetcode.com/chetannada/)**
+- Solved 50+ DSA Problems at **[LeetCode](https://leetcode.com/chetannada/)**
 - 5 :star: in Problem solving at **[HackerRank](https://www.hackerrank.com/chetannada)**
 
 
