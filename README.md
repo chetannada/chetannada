@@ -1,20 +1,20 @@
 <h1 align='center'>
-  Hi there 👋 I'm Chetan 👨‍💻
+  Hi there <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50"> I'm Chetan 👨
 </h1>
 
 <h3 align='center'>
-  A passionate frontend developer from India <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png" width="25">
+  A passionate frontend developer from India <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25">
 </h3>
 <div align='center'>
   <img src="https://komarev.com/ghpvc/?username=chetannada&style=flat-square&color=blue" alt=""/>
 </div>
-
+<br/>
 <img src="https://media.licdn.com/dms/image/D4D16AQHBayzTuZistw/profile-displaybackgroundimage-shrink_350_1400/0/1672217467531?e=1677715200&v=beta&t=lghifr8zmg5hZzMe81ip81oZ3BTzUTT0ntCvyjeScpY" alt="Header"/>
 <br/>
 
-🔭 I’m currently working on **[🚀 FoodFire App](https://foodfire-app.netlify.app/)** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+🔭 I’m currently working on **[🚀 FoodFire App Project](https://foodfire-app.netlify.app/)** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-:nerd_face: I’m currently learning **React js from [Namaste React Live Course](https://learn.namastedev.com/courses/namaste-react-live) by [Akshay Saini](https://www.linkedin.com/in/akshaymarch7/)**
+🏫 I’m currently learning **React js from [Namaste React Live Course](https://learn.namastedev.com/courses/namaste-react-live) by [Akshay Saini](https://www.linkedin.com/in/akshaymarch7/)**
 
 👯 I’m looking to collaborate on **Open source Project.**
 
@@ -37,8 +37,10 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetannada/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chetannada)
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/916005177838956555)
-[![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/chetannada)
+
+## ‍💻 Coding Profile:
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/chetannada)
+[![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/chetannada)
 
 ## ⚙ Languages and Tools:
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
@@ -70,5 +72,9 @@
 [![freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/chetannada)
 [![codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)](https://www.codecademy.com/profiles/ChetanNada)
 
+## 🏆 Trophies:
+<a href="https://github.com/ryo-ma/github-profile-trophy"></a>
+<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=chetannada&row=4&theme=onedark&no-frame=true" /> 
 
+## 📊 Stats:
 <div align= "center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=chetannada&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/></div>
