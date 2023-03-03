@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=chetannada&style=flat-square&color=blue" alt=""/>
 </div>
 <br/>
-<img src="https://media.licdn.com/dms/image/D4D16AQHBayzTuZistw/profile-displaybackgroundimage-shrink_350_1400/0/1672217467531?e=1677715200&v=beta&t=lghifr8zmg5hZzMe81ip81oZ3BTzUTT0ntCvyjeScpY" alt="Header"/>
+<img src="./Assets/Banner v1.png" alt="Front End Developer Banner"/>
 <br/>
 
 🔭 I’m currently working on **[🚀 FoodFire App Project](https://foodfire-app.netlify.app/)** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
