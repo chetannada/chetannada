@@ -83,5 +83,10 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"></a>
 <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=chetannada&row=4&theme=onedark&no-frame=true" /> 
 
+## ⚡❤️ Popular Repository:
+<div align="center"><a href="https://github.com/chetannada/Namaste-React">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chetannada&repo=Namaste-React&cache_seconds=86400&theme=radical" />
+</a></div>
+
 ## 📊 Stats:
-<div align= "center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=chetannada&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/></div>
+<div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=chetannada&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/></div>
