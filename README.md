@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=chetannada&style=flat-square&color=blue" alt=""/>
 </div>
 <br/>
-<img src="./Assets/Banner v1.png" alt="Front End Developer Banner"/>
+<img src="./Assets/Banner v2.png" alt="Front End Developer Banner"/>
 <br/>
 
 🔭 I’m currently working on **[🚀 FoodFire App Project](https://foodfire-app.netlify.app/)** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -24,11 +24,11 @@
 
 🚀 Love to talk about **Research and Innovation!**
 
-:muscle: Passionate about **`Competitive Coding`** <br>
+# 💪 Passionate about **`Competitive Coding`**
 - Solved 125+ DSA Problems at **[LeetCode](https://leetcode.com/chetannada/)**
 - 5 :star: in Problem solving at **[HackerRank](https://www.hackerrank.com/chetannada)**
 
-🏆 Achievement
+# 🏆 Achievement
 - 700+ Stars & 300+ Forks in **[Namaste-React](https://github.com/chetannada/Namaste-React)** Github Repository  **[Trending on Github Feb-2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view)**
 - Dev Ranking (Purple Belt) at **[CodeGrepper](https://www.grepper.com/profile/chetan-nada)**
 - 90K+ Subscribers on Educational **[Youtube Channel](https://www.youtube.com/@ClickHow/about)**
