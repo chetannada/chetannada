@@ -3,18 +3,18 @@
 </h1>
 
 <h3 align='center'>
-  A passionate frontend developer from India <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25">
+  A passionate Frontend Developer from India <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25">
 </h3>
 <div align='center'>
   <img src="https://komarev.com/ghpvc/?username=chetannada&style=flat-square&color=blue" alt=""/>
 </div>
 <br/>
-<img src="./Assets/Banner v2.png" alt="Front End Developer Banner"/>
+<img src="./Assets/Banner v3.png" alt="Front End Developer Banner"/>
 <br/>
 
-🔭 I’m currently working on **[🚀 FoodFire App Project](https://foodfire-app.netlify.app/)** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+🔭 I’m currently working on **Home Health Care Project** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-🏫 I’m currently learning **React js from [Namaste React Live Course](https://learn.namastedev.com/courses/namaste-react-live) by [Akshay Saini](https://www.linkedin.com/in/akshaymarch7/)**
+🏫 I’m currently learning **Next js by doing Project**
 
 👯 I’m looking to collaborate on **Open source Project.**
 
@@ -25,11 +25,13 @@
 🚀 Love to talk about **Research and Innovation!**
 
 ## 💪 Passionate about **`Competitive Coding`**
+
 - Solved 150+ DSA Problems at **[LeetCode](https://leetcode.com/chetannada/)**
 - 5 :star: in Problem solving at **[HackerRank](https://www.hackerrank.com/chetannada)**
 
 ## 🏆 Achievement
-- 700+ Stars & 400+ Forks in **[Namaste-React](https://github.com/chetannada/Namaste-React)** Github Repository  **[Trending on Github Feb-2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view)**
+
+- 900+ Stars & 400+ Forks in **[Namaste-React](https://github.com/chetannada/Namaste-React)** Github Repository **[Trending on Github Feb-2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view)**
 - Dev Ranking (Purple Belt) at **[CodeGrepper](https://www.grepper.com/profile/chetan-nada)**
 - 90K+ Subscribers on Educational **[Youtube Channel](https://www.youtube.com/@ClickHow/about)**
 
@@ -38,15 +40,18 @@
 📄 Know about my experiences at my **[LinkedIn Profile](https://linkedin.com/in/chetannada)**
 
 ## 🔗 Let's Connect:
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetannada/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chetannada)
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/916005177838956555)
 
 ## ‍💻 Coding Profile:
+
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/chetannada)
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/chetannada)
 
 ## ⚙ Languages and Tools:
+
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -81,17 +86,21 @@
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
 
 ## 📖 Educations:
+
 [![freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/chetannada)
 [![codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)](https://www.codecademy.com/profiles/ChetanNada)
 
 ## 🏆 Trophies:
+
 <a href="https://github.com/ryo-ma/github-profile-trophy"></a>
-<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=chetannada&row=4&theme=onedark&no-frame=true" /> 
+<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=chetannada&row=4&theme=onedark&no-frame=true" />
 
 ## ⚡❤️ Popular Repository:
+
 <div align="center"><a href="https://github.com/chetannada/Namaste-React">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chetannada&repo=Namaste-React&cache_seconds=86400&theme=radical" />
 </a></div>
 
 ## 📊 Stats:
+
 <div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=chetannada&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/></div>
