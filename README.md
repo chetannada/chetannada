@@ -18,7 +18,9 @@
 
 👯 I’m looking to collaborate on **Open source Project.**
 
-👨‍💻 All of my projects are available at **[My Portfolio](https://chetannada.netlify.app/)**
+💻 All of my projects are available at **[My Portfolio](https://chetannada.netlify.app/)**
+
+🌍 My Open Source Online Profile at **[LinkFree](https://linkfree.io/chetannada)**
 
 💬 Ask me about **Frontend Development.**
 
@@ -27,7 +29,7 @@
 ## 💪 Passionate about **`Competitive Coding`**
 
 - Solved 200+ DSA Problems at **[LeetCode](https://leetcode.com/chetannada/)**
-- 5 :star: in Problem solving at **[HackerRank](https://www.hackerrank.com/chetannada)**
+- 5 🌟 in Problem solving at **[HackerRank](https://www.hackerrank.com/chetannada)**
 
 ## 🏆 Achievement
 
