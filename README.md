@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align='center'>
-  A passionate Frontend Developer from India <img  src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
+  A passionate Frontend Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
 </h3>
 <div align='center'>
   <img src="https://komarev.com/ghpvc/?username=chetannada&style=flat-square&color=blue" alt="Profile Views" />
@@ -26,7 +26,7 @@
 
 💗 Love to talk about **Research and Innovation!**
 
-## 💪 Passionate about **`Competitive Coding`**
+## 💪 Passionate about Competitive Coding
 
 - Solved 200+ DSA Problems at **[LeetCode](https://leetcode.com/chetannada/)**
 - 5 🌟 in Problem solving at **[HackerRank](https://www.hackerrank.com/chetannada)**
