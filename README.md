@@ -28,14 +28,14 @@
 
 ## 💪 Passionate about Competitive Coding
 
-- Solved 200+ DSA Problems at **[LeetCode](https://leetcode.com/chetannada/)**
+- Solved 250+ DSA Problems at **[LeetCode](https://leetcode.com/chetannada/)**
 - 5 🌟 in Problem solving at **[HackerRank](https://www.hackerrank.com/chetannada)**
 
 ## 🏆 Achievement
 
-- 1k+ Stars 🌟🌟🌟🌟🌟 & 500+ Forks in **[Namaste-React](https://github.com/chetannada/Namaste-React)** Github Repository was **[Trending on Github Feb-2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view)**
+- 1.2k+ Stars 🌟🌟🌟🌟🌟 & 600+ Forks in **[Namaste-React](https://github.com/chetannada/Namaste-React)** Github Repository was **[Trending on Github Feb-2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view)**
 - Dev Ranking (Purple Belt) at **[CodeGrepper](https://www.grepper.com/profile/chetan-nada)**
-- 90K+ Subscribers on Educational **[Youtube Channel](https://www.youtube.com/@ClickHow/about)**
+- 85K+ Subscribers on Educational **[Youtube Channel](https://www.youtube.com/@ClickHow/about)**
 
 📫 How to reach me **call2chetannada@gmail.com**
 
