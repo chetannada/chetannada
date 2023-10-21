@@ -1,10 +1,11 @@
 <h1 align='center'>
-  Hi there <img style="vertical-align: sub" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hands" width="40" /> I'm Chetan 👨
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&lines=%E2%9C%A8+Hey%2C+I'm+Chetan.+You+are+welcome!+%F0%9F%8E%86" alt="Typing SVG" />
 </h1>
 
 <h3 align='center'>
   A passionate Frontend Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
 </h3>
+
 <div align='center'>
   <img src="https://komarev.com/ghpvc/?username=chetannada&style=flat-square&color=blue" alt="Profile Views" />
 </div>
@@ -20,7 +21,7 @@
 
 💻 All of my projects are available at **[My Portfolio](https://chetannada.netlify.app/)**
 
-🌍 My Open Source Online Profile at **[LinkFree](https://linkfree.io/chetannada)**
+🌍 My Open Source Online Profile at **[BioDrop](https://www.biodrop.io/chetannada)**
 
 💬 Ask me about **Frontend Development**
 
@@ -28,12 +29,12 @@
 
 ## 💪 Passionate about Competitive Coding
 
-- Solved 250+ DSA Problems at **[LeetCode](https://leetcode.com/chetannada/)**
+- Solved 300+ DSA Problems at **[LeetCode](https://leetcode.com/chetannada/)**
 - 5 🌟 in Problem solving at **[HackerRank](https://www.hackerrank.com/chetannada)**
 
 ## 🏆 Achievement
 
-- 1.2k+ Stars 🌟🌟🌟🌟🌟 & 600+ Forks in **[Namaste-React](https://github.com/chetannada/Namaste-React)** Github Repository was **[Trending on Github Feb-2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view)**
+- 1.3k+ Stars 🌟🌟🌟🌟🌟 & 650+ Forks in **[Namaste-React](https://github.com/chetannada/Namaste-React)** Github Repository was **[Trending on Github Feb-2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view)**
 - Dev Ranking (Purple Belt) at **[CodeGrepper](https://www.grepper.com/profile/chetan-nada)**
 - 85K+ Subscribers on Educational **[Youtube Channel](https://www.youtube.com/@ClickHow/about)**
 
@@ -41,14 +42,14 @@
 
 📄 Know about my experiences at my **[LinkedIn Profile](https://linkedin.com/in/chetannada)**
 
-## 🔗 Let's Connect:
+## 🔰 Let's Connect:
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetannada/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:call2chetannada@gmail.com)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chetannada)
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/916005177838956555)
 
-## ‍<img style="vertical-align: sub" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px> Coding Profile:
+## ‍🎃 Coding Profile:
 
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/chetannada)
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/chetannada)
@@ -93,12 +94,12 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"></a>
 <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=chetannada&row=4&theme=onedark&no-frame=true" />
 
-## ⚡❤️ Popular Repository:
+## <img style="vertical-align: sub" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=22&lines=%F0%9F%92%96" alt="Typing SVG" /> Popular Repository:
 
 <div align="center"><a href="https://github.com/chetannada/Namaste-React">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chetannada&repo=Namaste-React&cache_seconds=86400&theme=radical" alt="Namaste React Repository" />
 </a></div>
 
-## <img style="vertical-align: sub" src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" alt="Smart Emoji" width="25px" /> Github Stats:
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=24&lines=%F0%9F%92%AB" alt="Typing SVG" /> Github Stats:
 
 <div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=chetannada&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" alt="Github Stats" /></div>
