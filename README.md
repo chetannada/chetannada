@@ -13,7 +13,7 @@
 <img src="./Assets/Banner v3.png" alt="Front End Developer Banner" />
 <br/>
 
-🔭 I’m currently working on **Home Health Care Project** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
+🔭 I’m currently working on **Common SSO Project** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
 🏫 I’m currently learning **Next js by doing Project**
 
@@ -29,12 +29,12 @@
 
 ## 💪 Passionate about Competitive Coding
 
-- Solved 350+ DSA Problems at **[LeetCode](https://leetcode.com/chetannada/)**
+- Solved 400+ DSA Problems at **[LeetCode](https://leetcode.com/chetannada/)**
 - 5🌟 in Problem solving at **[HackerRank](https://www.hackerrank.com/chetannada)**
 
 ## 🏆 Achievement
 
-- 1.4k+ Stars 🌟🌟🌟🌟🌟 & 700+ Forks in **[Namaste-React](https://github.com/chetannada/Namaste-React)** Github Repository was **[Trending on Github Feb-2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view)**
+- 1.5k+ Stars 🌟🌟🌟🌟🌟 & 750+ Forks in **[Namaste-React](https://github.com/chetannada/Namaste-React)** Github Repository was **[Trending on Github Feb-2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view)**
 - Dev Ranking (Purple Belt) at **[CodeGrepper](https://www.grepper.com/profile/chetan-nada)**
 - 85K+ Subscribers on Educational **[Youtube Channel](https://www.youtube.com/@ClickHow/about)**
 
