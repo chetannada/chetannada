@@ -13,7 +13,7 @@
 <img src="./Assets/Banner v3.png" alt="Front End Developer Banner" />
 <br/>
 
-🔭 I’m currently working on **Common SSO Project** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
+🔭 I’m currently working on **FVR Project** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
 🏫 I’m currently learning **Next js by doing Project**
 
@@ -21,7 +21,7 @@
 
 💻 All of my projects are available at **[My Portfolio](https://chetannada.netlify.app/)**
 
-🌍 My Open Source Online Profile at **[BioDrop](https://www.biodrop.io/chetannada)**
+🌍 My Open Source Online Portfolio at **[BioDrop](https://www.biodrop.io/chetannada)**
 
 💬 Ask me about **Frontend Development**
 
@@ -34,7 +34,8 @@
 
 ## 🏆 Achievement
 
-- 1.5k+ Stars 🌟🌟🌟🌟🌟 & 750+ Forks in **[Namaste-React](https://github.com/chetannada/Namaste-React)** Github Repository was **[Trending on Github Feb-2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view)**
+- 1.5k+ Stars 🌟🌟🌟🌟🌟 & 800+ Forks in **[Namaste-React](https://github.com/chetannada/Namaste-React)** Github Repository was **[Trending on Github Feb-2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view)**
+- 20+ Bookings completed at **[Topmate](https://topmate.io/chetannada)**
 - Dev Ranking (Purple Belt) at **[CodeGrepper](https://www.grepper.com/profile/chetan-nada)**
 - 85K+ Subscribers on Educational **[Youtube Channel](https://www.youtube.com/@ClickHow/about)**
 
