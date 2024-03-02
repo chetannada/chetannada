@@ -30,25 +30,25 @@
 ## 💪 Passionate about Competitive Coding
 
 - Solved 400+ DSA Problems at **[LeetCode](https://leetcode.com/chetannada/)**
-- 5🌟 in Problem solving at **[HackerRank](https://www.hackerrank.com/chetannada)**
+- 5 Star in Problem solving at **[HackerRank](https://www.hackerrank.com/chetannada)**
 
 ## 🏆 Achievement
 
-- 1.5k+ Stars 🌟🌟🌟🌟🌟 & 800+ Forks in **[Namaste-React](https://github.com/chetannada/Namaste-React)** Github Repository was **[Trending on Github Feb-2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view)**
-- 20+ Bookings completed at **[Topmate](https://topmate.io/chetannada)**
+- 1.6k+ Stars 🌟, 800+ Forks & 15+ Contributors in **[Namaste-React](https://github.com/chetannada/Namaste-React)** Github Repository was **[Trending on Github Feb-2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view)**
+- 20+ Service bookings completed at **[Topmate](https://topmate.io/chetannada)**
+- Among the Top 400 at **[GitHub User by Followers](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/india.md)** in India
+- Top Front-End Development Voice at **[Linkedin](https://www.linkedin.com/in/chetannada/)**
 - Dev Ranking (Purple Belt) at **[CodeGrepper](https://www.grepper.com/profile/chetan-nada)**
 - 85K+ Subscribers on Educational **[Youtube Channel](https://www.youtube.com/@ClickHow/about)**
 
 📫 How to reach me **call2chetannada@gmail.com**
 
-📄 Know about my experiences at my **[LinkedIn Profile](https://linkedin.com/in/chetannada)**
-
 ## 🔰 Let's Connect:
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetannada/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:call2chetannada@gmail.com)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chetannada)
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/916005177838956555)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:call2chetannada@gmail.com)
 
 ## ‍🎃 Coding Profile:
 
