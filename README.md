@@ -36,8 +36,8 @@
 
 - 1.6k+ Stars 🌟, 800+ Forks & 15+ Contributors in **[Namaste-React](https://github.com/chetannada/Namaste-React)** Github Repository was **[Trending on Github Feb-2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view)**
 - 20+ Service bookings completed at **[Topmate](https://topmate.io/chetannada)**
-- Among the Top 400 at **[GitHub User by Followers](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/india.md)** in India
-- Top Front-End Development Voice at **[Linkedin](https://www.linkedin.com/in/chetannada/)**
+- Among the Top 400 **[GitHub Users by Followers](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/india.md)** in India
+- Top Front-End Development Voice on **[Linkedin](https://www.linkedin.com/in/chetannada/)**
 - Dev Ranking (Purple Belt) at **[CodeGrepper](https://www.grepper.com/profile/chetan-nada)**
 - 85K+ Subscribers on Educational **[Youtube Channel](https://www.youtube.com/@ClickHow/about)**
 
