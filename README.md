@@ -34,7 +34,7 @@
 
 ## 🏆 Achievement
 
-- 1.6k+ Stars 🌟, 800+ Forks & 15+ Contributors in **[Namaste-React](https://github.com/chetannada/Namaste-React)** Github Repository was **[Trending on Github Feb-2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view)**
+- 1.7k+ Stars 🌟, 800+ Forks & 15+ Contributors in **[Namaste-React](https://github.com/chetannada/Namaste-React)** Github Repository was **[Trending on Github Feb-2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view)**
 - Among the Top 5% & 20+ Service bookings completed at **[Topmate](https://topmate.io/chetannada)**
 - Among the Top 400 **[GitHub Users by Followers](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/india.md)** in India
 - Top Front-End Development Voice on **[Linkedin](https://www.linkedin.com/in/chetannada/)**
@@ -87,10 +87,6 @@
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![ChartJs](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
-
-
-
-
 
 ## 🏆 Trophies:
 
