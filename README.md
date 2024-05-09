@@ -29,16 +29,16 @@
 
 ## 💪 Passionate about Competitive Coding
 
-- Solved 400+ DSA Problems at **[LeetCode](https://leetcode.com/chetannada/)**
+- Solved 450+ DSA Problems at **[LeetCode](https://leetcode.com/chetannada/)**
 - 5 Star in Problem solving at **[HackerRank](https://www.hackerrank.com/chetannada)**
 
 ## 🏆 Achievement
 
-- 1.7k+ Stars 🌟, 800+ Forks & 15+ Contributors in **[Namaste-React](https://github.com/chetannada/Namaste-React)** Github Repository was **[Trending on Github Feb-2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view)**
+- 1.7k+ Stars 🌟, 900+ Forks & 20+ Contributors in **[Namaste-React](https://github.com/chetannada/Namaste-React)** Github Repository was **[Trending on Github Feb-2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view)**
 - Among the Top 5% & 20+ Service bookings completed at **[Topmate](https://topmate.io/chetannada)**
-- Among the Top 400 **[GitHub Users by Followers](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/india.md)** in India
+- Among the Top 300 **[GitHub Users by Followers](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/india.md)** in India
 - Top Front-End Development Voice on **[Linkedin](https://www.linkedin.com/in/chetannada/)**
-- Dev Ranking (Purple Belt) at **[CodeGrepper](https://www.grepper.com/profile/chetan-nada)**
+- Dev Ranking (Brown Belt) at **[CodeGrepper](https://www.grepper.com/profile/chetan-nada)**
 - 85K+ Subscribers on Educational **[Youtube Channel](https://www.youtube.com/@ClickHow/about)**
 
 📫 How to reach me **call2chetannada@gmail.com**
