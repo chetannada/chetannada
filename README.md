@@ -21,8 +21,6 @@
 
 💻 Portfolio Project **[Chetan Nada - Portfolio](https://chetannada.netlify.app/)**
 
-🌍 My Open Source Online Portfolio at **[BioDrop](https://www.biodrop.io/chetannada)**
-
 💬 Ask me about **Frontend Development, MERN Full Stack Development, Data Structure and Algorithm**
 
 💗 Love to talk about **Research and Innovation!**
