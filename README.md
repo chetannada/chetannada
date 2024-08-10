@@ -27,7 +27,7 @@
 
 ## 💪 Passionate about Competitive Coding
 
-- Solved 450+ DSA Problems at **[LeetCode](https://leetcode.com/chetannada/)** using Javascript and Typescript.
+- Solved 500+ DSA Problems at **[LeetCode](https://leetcode.com/chetannada/)** using Javascript and Typescript.
 - 5 Star in Problem solving at **[HackerRank](https://www.hackerrank.com/chetannada)**
 
 ## 🏆 Achievement
@@ -105,6 +105,10 @@
 
 <div align="center"><a href="https://github.com/chetannada/Namaste-React">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chetannada&repo=Namaste-React&cache_seconds=86400&theme=radical" alt="Namaste React Repository" />
+</a></div>
+<br/>
+<div align="center"><a href="https://github.com/chetannada/Javascript-Practice">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chetannada&repo=Javascript-Practice&cache_seconds=86400&theme=radical" alt="Javascript-Practice Repository" />
 </a></div>
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=24&lines=%F0%9F%92%AB" alt="Typing SVG" /> Github Stats:
