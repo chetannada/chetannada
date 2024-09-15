@@ -13,7 +13,7 @@
 <img src="./Assets/Banner v3.png" alt="Front End Developer Banner" />
 <br/>
 
-🔭 I’m currently working on **FVR Project** using React.js, Next.js and Material UI <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
+🔭 I’m currently working on **FVR Phase 2 Project** using React.js, Next.js and Material UI <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
 🏫 I’m currently learning **MERN Full Stack Development**
 
@@ -40,7 +40,7 @@
 - Dev Ranking (Brown Belt) at **[CodeGrepper](https://www.grepper.com/profile/chetan-nada)**
 - 85K+ Subscribers on Educational **[Youtube Channel](https://www.youtube.com/@ClickHow/about)**
 
-📫 How to reach me **call2chetannada@gmail.com**
+📫 Feel free to reach out if you have any opportunity that fits my background: **call2chetannada@gmail.com**
 
 ## 🔰 Let's Connect:
 
