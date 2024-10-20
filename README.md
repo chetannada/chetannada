@@ -36,7 +36,7 @@
 - 100+ Stars 🌟contains in **[Javascript-Practice](https://github.com/chetannada/Javascript-Practice)** Github Repository for Leetcode Solution
 - Among the Top 100 **[GitHub Users By Public Contributions](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india.md)** in India
 - Among the Top 300 **[GitHub Users by Followers](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/india.md)** in India
-- Among the Top 5% & 20+ Service bookings completed at **[Topmate](https://topmate.io/chetannada)**
+- Among the Top 1% & 25+ Service bookings completed at **[Topmate](https://topmate.io/chetannada)**
 - Dev Ranking (Brown Belt) at **[CodeGrepper](https://www.grepper.com/profile/chetan-nada)**
 - 85K+ Subscribers on Educational **[Youtube Channel](https://www.youtube.com/@ClickHow/about)**
 
