@@ -13,7 +13,7 @@
 <img src="./Assets/Banner v3.png" alt="Front End Developer Banner" />
 <br/>
 
-🔭 I’m currently working on **HHC Phase 2 Project** using React.js, Next.js and Material UI <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
+🔭 I’m currently working on **Star Glance Project** using React.js, Next.js and Material UI <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
 🏫 I’m currently learning **MERN Full Stack Development**
 
@@ -34,7 +34,7 @@
 
 - 1.9k+ Stars 🌟, 1k+ Forks & 20+ Contributors in **[Namaste-React](https://github.com/chetannada/Namaste-React)** Github Repository, It was **[Trending on Github Feb-2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view)**
 - 100+ Stars 🌟contains in **[Javascript-Practice](https://github.com/chetannada/Javascript-Practice)** Github Repository for Leetcode Solution
-- Among the Top 100 **[GitHub Users By Public Contributions](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india.md)** in India
+- Among the Top 200 **[GitHub Users By Public Contributions](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india.md)** in India
 - Among the Top 300 **[GitHub Users by Followers](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/india.md)** in India
 - Among the Top 1% & 25+ Service bookings completed at **[Topmate](https://topmate.io/chetannada)**
 - Dev Ranking (Brown Belt) at **[CodeGrepper](https://www.grepper.com/profile/chetan-nada)**
