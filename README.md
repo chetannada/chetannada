@@ -35,7 +35,7 @@
 | [JavaScript-Practice](https://github.com/chetannada/Javascript-Practice)                                                 | ⭐ 100+ GitHub stars for LeetCode solutions                                                                                         |
 | [Topmate](https://topmate.io/chetannada)                                                                                 | Top 1%, 35+ service bookings completed                                                                                              |
 | [YouTube](https://www.youtube.com/@ClickHow/about)                                                                       | 📺 85K+ Subscribers on Education Channel                                                                                            |
-| [GitHub India Rankings](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india.md) | 👤 Top 200 by Contributions, Top 300 by Followers                                                                                   |
+| GitHub India Rankings - [Contributions](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india.md) - [Followers](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/india.md) | 👤 Top 200 by Contributions, Top 300 by Followers                                                                                   |
 
 ---
 
