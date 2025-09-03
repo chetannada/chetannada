@@ -1,6 +1,12 @@
-<h3 align="center">
-    Architecting Modular Frontends & Inclusive Open Source Systems 🇮🇳
-</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Chetan Nada</h1>
+  <h3>Developer who sees every bug as a lesson and every refactor as an opportunity</h3>
+</div>
+
+<p align="center">
+  <img width="20%" src="https://komarev.com/ghpvc/?username=chetannada&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
 
 ---
 
@@ -105,11 +111,6 @@
 
 <p align="center">
   <img width="80%" src="https://github-trophies.vercel.app/?username=chetannada&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=Stars,Followers,Commits,PullRequest,Reviews,Repositories,Issues" alt="Trophies" />
-</p>
-
-
-<p align="center">
-  <img width="40%" src="https://komarev.com/ghpvc/?username=chetannada&style=flat-square&color=orange" alt="Profile Views" />
 </p>
 
 ---
