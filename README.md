@@ -1,6 +1,9 @@
 <div align="center">
-  <h1>Hi 👋, I'm Chetan Nada</h1>
-  <h3>Developer who sees every bug as a lesson and every refactor as an opportunity</h3>
+  <h1>Hi there 👋, I'm Chetan Nada</h1>
+  <h3>
+    A passionate developer driven by a simple philosophy: <br>
+    Every bug is a lesson, and every refactor is an opportunity for mastery. ✨
+  </h3>
 </div>
 
 <p align="center">
@@ -10,11 +13,11 @@
 
 ---
 
-## 🚀 Current Focus
+## ✨ What I'm Building & Learning
 
-- 🔭 Working on an **Customer Portal Ent Renewal** using React.js & Material UI.
-- 🏫 Learning **MERN Full Stack Development**.
-- 🤝 Open to collaborating on **Open-source Projects**.
+- **🔭 Professional Development:** Currently focused on developing **Phase 2** of an **Asset Management System**. My stack for this includes **React.js**, **Next.js**, and modern UI design with **Material UI**.
+- **🏫 Full Stack Proficiency:** Deepening my expertise in the **MERN Full Stack** architecture through the development of my [open-source project](https://devfoundry.netlify.app/).
+- **🤝 Open to Contribution:** Passionate about open source. I'm always looking for opportunities to collaborate on new and existing **Open-source projects**. Reach out if you have an idea!
 
 ---
 
