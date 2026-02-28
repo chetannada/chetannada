@@ -15,7 +15,7 @@
 
 ## ✨ What I'm Building & Learning
 
-- **🔭 Professional Development:** Currently focused on developing **Phase 2** of an **Asset Management System**. My stack for this includes **React.js**, **Next.js**, and modern UI design with **Material UI**.
+- **🔭 Professional Development:** Currently focused on developing **Renew Genie & Anywhere Cashless Hospital Portal**. My stack for this includes **React.js**, **Next.js**, and modern UI design with **Material UI**.
 - **🏫 Full Stack Proficiency:** Deepening my expertise in the **MERN Full Stack** architecture through the development of my [open-source project](https://devfoundry.netlify.app/).
 - **🤝 Open to Contribution:** Passionate about open source. I'm always looking for opportunities to collaborate on new and existing **Open-source projects**. Reach out if you have an idea!
 
