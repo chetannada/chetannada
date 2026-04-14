@@ -10,13 +10,13 @@
   <img width="20%" src="https://komarev.com/ghpvc/?username=chetannada&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
-
 ---
 
 ## ✨ What I'm Building & Learning
 
 - **🔭 Professional Development:** Currently focused on developing **Renew Genie & Anywhere Cashless Hospital Portal**. My stack for this includes **React.js**, **Next.js**, and modern UI design with **Material UI**.
 - **🏫 Full Stack Proficiency:** Deepening my expertise in the **MERN Full Stack** architecture through the development of my [open-source project](https://devfoundry.netlify.app/).
+- **📦 Open Source Package:** Published [string-conv](https://www.npmjs.com/package/string-conv) — a lightweight, zero-dependency TypeScript utility for **18+ string case conversions**, case detection, and string manipulation. Works with ESM & CommonJS.
 - **🤝 Open to Contribution:** Passionate about open source. I'm always looking for opportunities to collaborate on new and existing **Open-source projects**. Reach out if you have an idea!
 
 ---
@@ -24,7 +24,7 @@
 ## 🌐 Portfolio & Reach
 
 - 💻 Explore my portfolio: [Chetan Nada](https://chetannada.netlify.app/)
-- 💬 Ask me about: _Frontend, MERN stack, DSA_
+- 💬 Ask me about: _Frontend, MERN stack, DSA, npm packages_
 - ❤️ Love chatting about **Research & Innovation**
 
 ---
@@ -38,13 +38,23 @@
 
 ## 🏆 Notable Achievements
 
-| Project                                                                                                                  | Highlights                                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
-| [Namaste-React](https://github.com/chetannada/Namaste-React)                                                             | ⭐ 2k+, 🍴 1k+, 👥 20+ contributors, [Trending in Feb 2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view) |
-| [JavaScript-Practice](https://github.com/chetannada/Javascript-Practice)                                                 | ⭐ 100+ GitHub stars for LeetCode solutions                                                                                         |
-| [Topmate](https://topmate.io/chetannada)                                                                                 | Top 1%, 35+ service bookings completed                                                                                              |
-| [YouTube](https://www.youtube.com/@ClickHow/about)                                                                       | 📺 85K+ Subscribers on Education Channel                                                                                            |
+| Project                                                                                                                                                                                                                                      | Highlights                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [Namaste-React](https://github.com/chetannada/Namaste-React)                                                                                                                                                                                 | ⭐ 2k+, 🍴 1k+, 👥 20+ contributors, [Trending in Feb 2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view) |
+| [string-conv](https://www.npmjs.com/package/string-conv)                                                                                                                                                                                     | 📦 npm package — 18+ string case conversions, zero dependencies, full TypeScript support                                            |
+| [Topmate](https://topmate.io/chetannada)                                                                                                                                                                                                     | Top 1%, 35+ service bookings completed                                                                                              |
+| [YouTube](https://www.youtube.com/@ClickHow/about)                                                                                                                                                                                           | 📺 85K+ Subscribers on Educational Channel                                                                                          |
 | GitHub India Rankings - [Contributions](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india.md) - [Followers](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/india.md) | 👤 Top 200 by Contributions, Top 300 by Followers                                                                                   |
+
+---
+
+## 📦 npm Packages
+
+### [string-conv](https://www.npmjs.com/package/string-conv)
+
+![npm](https://img.shields.io/npm/v/string-conv) ![npm downloads](https://img.shields.io/npm/dm/string-conv) ![license](https://img.shields.io/npm/l/string-conv) ![types](https://img.shields.io/npm/types/string-conv)
+
+> A lightweight, zero-dependency TypeScript utility for string case conversion, inspection, and manipulation.
 
 ---
 
@@ -59,7 +69,7 @@
 
 ## ♨ Languages and Tools
 
-> Technologies I’ve worked with across frontend, backend, styling, testing, DevOps, docs, and design:
+> Technologies I've worked with across frontend, backend, styling, testing, DevOps, docs, and design:
 
 <details>
   <summary>🧪 Tech Stack Badges</summary>
@@ -73,7 +83,7 @@
  Node.js, Express.js, MongoDB
 
 🧪 **Testing & APIs**  
- Jest, Axios, JSON, Postman, SonarQube
+ Jest, Vitest, Axios, JSON, Postman, SonarQube
 
 🏗️ **Build Tools**  
  Webpack, Babel, Vite
@@ -91,7 +101,7 @@
  Jira
 
 📈 **Visualization**  
- Chart.js
+apexcharts, Chart.js
 
 </details>
 
@@ -118,4 +128,4 @@
 
 ---
 
-> 💬 Let’s build something incredible together. Whether it’s code, community, or creativity—I’m always open for the next challenge!
+> 💬 Let's build something incredible together. Whether it's code, community, or creativity—I'm always open for the next challenge!
