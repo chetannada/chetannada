@@ -1,124 +1,103 @@
 <div align="center">
   <h1>Hi there 👋, I'm Chetan Nada</h1>
-  <h3>
-    A passionate developer driven by a simple philosophy: <br>
-    Every bug is a lesson, and every refactor is an opportunity for mastery. ✨
-  </h3>
+<h3>
+Senior Frontend Engineer specializing in React.js, Next.js, TypeScript, and scalable web applications.
+Building enterprise products, open-source software, and AI-powered developer tools while contributing to the developer community through content, mentorship, and open source.
+</h3>
 </div>
 
 <p align="center">
   <img width="20%" src="https://komarev.com/ghpvc/?username=chetannada&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india.md">
+    <img src="https://img.shields.io/badge/GitHub-Top%20200%20India-black" />
+  </a>
 
-## ✨ What I'm Building & Learning
+  <a href="https://www.linkedin.com/in/chetannada">
+    <img src="https://img.shields.io/badge/LinkedIn-35K%2B%20Followers-blue" />
+  </a>
 
-- **🔭 Professional Development:** Currently focused on developing **Renew Genie & Anywhere Cashless Hospital Portal**. My stack for this includes **React.js**, **Next.js**, and modern UI design with **Material UI**.
-- **🏫 Full Stack Proficiency:** Deepening my expertise in the **MERN Full Stack** architecture through the development of my [open-source project](https://devfoundry.netlify.app/).
-- **📦 Open Source Package:** Published [string-conv](https://www.npmjs.com/package/string-conv) — a lightweight, zero-dependency TypeScript utility for **18+ string case conversions**, case detection, and string manipulation. Works with ESM & CommonJS.
-- **🤝 Open to Contribution:** Passionate about open source. I'm always looking for opportunities to collaborate on new and existing **Open-source projects**. Reach out if you have an idea!
+  <a href="https://topmate.io/chetannada">
+    <img src="https://img.shields.io/badge/Topmate-Top%201%25-success" />
+  </a>
+</p>
 
----
+## ✨ What I'm Building
 
-## 🌐 Portfolio & Reach
+- Building scalable enterprise-grade web applications using React.js, Next.js, TypeScript, and modern frontend architecture patterns.
+- Exploring AI-powered product experiences using LLM integrations and developer-focused tooling.
+- Maintaining and expanding open-source projects that help developers learn, build, and grow.
 
-- 💻 Explore my portfolio: [Chetan Nada](https://chetannada.netlify.app/)
-- 💬 Ask me about: _Frontend, MERN stack, DSA, npm packages_
-- ❤️ Love chatting about **Research & Innovation**
+## 👨‍💻 About Me
 
----
+Senior Frontend Engineer with a proven track record of building scalable, high-performance web applications using React.js, Next.js, TypeScript, Redux Toolkit, and modern frontend architectures.
 
-## 🧠 Competitive Coding
+I enjoy solving complex UI challenges, improving application performance, designing reusable architectures, and creating developer-friendly experiences.
 
-- 🟡 Solved 500+ DSA problems on [LeetCode](https://leetcode.com/chetannada/) using JavaScript & TypeScript.
-- 🟢 5-star in Problem Solving on [HackerRank](https://www.hackerrank.com/chetannada)
+Beyond professional work, I actively build open-source projects, contribute to the developer community, and experiment with AI-powered applications.
 
----
 
 ## 🏆 Notable Achievements
 
-| Project                                                                                                                                                                                                                                      | Highlights                                                                                                                          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| [Namaste-React](https://github.com/chetannada/Namaste-React)                                                                                                                                                                                 | ⭐ 2k+, 🍴 1k+, 👥 20+ contributors, [Trending in Feb 2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view) |
-| [string-conv](https://www.npmjs.com/package/string-conv)                                                                                                                                                                                     | 📦 npm package — 18+ string case conversions, zero dependencies, full TypeScript support                                            |
-| [Topmate](https://topmate.io/chetannada)                                                                                                                                                                                                     | Top 1%, 35+ service bookings completed                                                                                              |
-| [YouTube](https://www.youtube.com/@ClickHow/about)                                                                                                                                                                                           | 📺 85K+ Subscribers on Educational Channel                                                                                          |
-| GitHub India Rankings - [Contributions](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india.md) - [Followers](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/india.md) | 👤 Top 200 by Contributions, Top 300 by Followers                                                                                   |
+- ⭐ 2,000+ GitHub Stars & 🍴 1,000+ Repository Forks across Open Source Projects 
+- 👥 20+ Open Source Contributors on [Namaste React](https://github.com/chetannada/Namaste-React) – Featured among [GitHub Trending repositories in February 2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view)
+- 🚀 [Top 200 GitHub Contributors in India](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india.md) by Public Contributions
+- 🧩 Solved 500+ DSA Problems on [LeetCode](https://leetcode.com/chetannada/)
+- 🏅 5-Star Problem Solving Badge on [HackerRank](https://www.hackerrank.com/chetannada)
+- 🥇 Top 1% Mentor on [Topmate](https://topmate.io/chetannada)
 
----
-
-## 📦 npm Packages
-
-### [string-conv](https://www.npmjs.com/package/string-conv)
-
-![npm](https://img.shields.io/npm/v/string-conv) ![npm downloads](https://img.shields.io/npm/dm/string-conv) ![license](https://img.shields.io/npm/l/string-conv) ![types](https://img.shields.io/npm/types/string-conv)
-
-> A lightweight, zero-dependency TypeScript utility for string case conversion, inspection, and manipulation.
-
----
 
 ## 📫 Contact Me
 
 - 📧 Email: [call2chetannada@gmail.com](mailto:call2chetannada@gmail.com)
-- 💼 LinkedIn: [@chetannada](https://www.linkedin.com/in/chetannada/)
-- 🐦 Twitter: [@chetannada](https://twitter.com/chetannada)
-- 💬 Discord: [@chetannada](https://discordapp.com/users/916005177838956555)
+- 💼 LinkedIn: [chetannada](https://www.linkedin.com/in/chetannada)
+- 💻 portfolio: [Chetan Nada](https://chetannada.netlify.app)
 
----
 
 ## ♨ Languages and Tools
 
 > Technologies I've worked with across frontend, backend, styling, testing, DevOps, docs, and design:
 
-<details>
-  <summary>🧪 Tech Stack Badges</summary>
+⚛️ Frontend: 
+React.js, Next.js, TypeScript, JavaScript, Redux Toolkit, Zustand, React Hook Form, Material UI, Tailwind CSS, Framer Motion
 
-  <br/>
+⚙️ Backend: 
+Node.js, Express.js, MongoDB, Mongoose, Redis
 
-⚛️ **Frontend**  
- React.js, Next.js, JavaScript, TypeScript, jQuery, Redux, Material UI, Tailwind CSS, Bootstrap, Sass, HTML5, CSS3
+🏗️ Architecture: 
+SSR, Micro Frontends, Component Libraries, REST APIs, Design Systems
 
-🔧 **Backend & Server**  
- Node.js, Express.js, MongoDB
+🔐 Authentication & Security: 
+JWT, OAuth 2.0, RBAC, Redis Session Management
 
-🧪 **Testing & APIs**  
- Jest, Vitest, Axios, JSON, Postman, SonarQube
+🤖 AI & Integrations: 
+Google Gemini API, LLM Integrations, Prompt Engineering
 
-🏗️ **Build Tools**  
- Webpack, Babel, Vite
+🧪 Testing & Quality: 
+Jest, React Testing Library, SonarQube, Snyk
 
-💡 **Deployment**  
- Netlify, Vercel, Heroku, Render, GitHub Pages
 
-🧰 **Utilities**  
- Git, NPM, Yarn, VSCode, Notion, Microsoft Office
+## 🚀 Featured Projects
 
-🎨 **Design Tools**  
- Canva, Figma, Adobe Photoshop
+### [DevFoundry](https://github.com/chetannada/DevFoundry)
+Open-source MERN platform featuring machine coding challenges, AI-powered utilities, authentication systems, and community-driven project contributions.
 
-🧩 **Project Management**  
- Jira
+**Tech:** React.js, Node.js, Express.js, MongoDB, Redux Toolkit, Gemini API
 
-📈 **Visualization**  
-apexcharts, Chart.js
+### [Namaste React](https://github.com/chetannada/Namaste-React)
+Community-driven learning repository with 2,000+ GitHub stars, 1,000+ forks and 20+ Open Source Contributors.
 
-</details>
+### [string-conv](https://www.npmjs.com/package/string-conv)
+Published zero-dependency TypeScript utility package supporting 18+ string transformations with full TypeScript support and modern ESM/CommonJS compatibility.
 
----
 
-## 📊 GitHub Stats & Popular Repositories
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=chetannada&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chetannada&repo=Namaste-React&cache_seconds=86400&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chetannada&repo=Javascript-Practice&cache_seconds=86400&theme=radical" />
-</p>
-
----
 
 ## 🏆 GitHub Trophy Cabinet
 
@@ -128,4 +107,8 @@ apexcharts, Chart.js
 
 ---
 
-> 💬 Let's build something incredible together. Whether it's code, community, or creativity—I'm always open for the next challenge!
+💡 I enjoy building products, solving frontend challenges, contributing to open source, and connecting with developers worldwide.
+
+🚀 Always interested in building impactful products, contributing to open source, and connecting with fellow developers.
+
+Let's build something meaningful together.
