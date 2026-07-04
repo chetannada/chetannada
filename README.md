@@ -1,9 +1,13 @@
 <div align="center">
   <h1>Hi there 👋, I'm Chetan Nada</h1>
+
 <h3>
-Senior Frontend Engineer specializing in React.js, Next.js, TypeScript, and scalable web applications.
-Building enterprise products, open-source software, and AI-powered developer tools while contributing to the developer community through content, mentorship, and open source.
+Senior Frontend Engineer • Full Stack MERN Developer • Open Source Builder
+
+Building scalable full-stack web applications with React.js, Next.js, Node.js, Express.js, MongoDB, and TypeScript.
+Passionate about enterprise software, AI-powered developer tools, open source, and helping developers grow through content and mentorship.
 </h3>
+
 </div>
 
 <p align="center">
@@ -26,17 +30,18 @@ Building enterprise products, open-source software, and AI-powered developer too
 
 ## ✨ What I'm Building
 
-- Building scalable enterprise-grade web applications using React.js, Next.js, TypeScript, and modern frontend architecture patterns.
-- Exploring AI-powered product experiences using LLM integrations and developer-focused tooling.
-- Maintaining and expanding open-source projects that help developers learn, build, and grow.
+- 🚀 Building scalable full-stack applications using the MERN stack, Next.js, and TypeScript.
+- ⚡ Designing modern frontend architectures with React.js, reusable component libraries, and performance-first development.
+- 🤖 Exploring AI-powered products using LLMs, intelligent workflows, and developer-focused tools.
+- 🌍 Growing open-source projects that help developers learn, build, and contribute.
 
 ## 👨‍💻 About Me
 
-Senior Frontend Engineer with a proven track record of building scalable, high-performance web applications using React.js, Next.js, TypeScript, Redux Toolkit, and modern frontend architectures.
+I'm a Senior Frontend Engineer and Full Stack MERN Developer passionate about building products that are scalable, performant, and developer-friendly.
 
-I enjoy solving complex UI challenges, improving application performance, designing reusable architectures, and creating developer-friendly experiences.
+Professionally, I specialize in React.js, Next.js, TypeScript, Redux Toolkit, and modern frontend architecture. Alongside frontend engineering, I actively build full-stack applications using Node.js, Express.js, MongoDB, and Redis, developing secure REST APIs, authentication systems, and end-to-end web applications.
 
-Beyond professional work, I actively build open-source projects, contribute to the developer community, and experiment with AI-powered applications.
+Outside of work, I contribute to open source, build developer tools, create educational content, and explore AI-powered applications using Large Language Models (LLMs) to solve real-world problems.
 
 
 ## 🏆 Notable Achievements
@@ -44,10 +49,9 @@ Beyond professional work, I actively build open-source projects, contribute to t
 - ⭐ 2,000+ GitHub Stars & 🍴 1,000+ Repository Forks across Open Source Projects 
 - 👥 20+ Open Source Contributors on [Namaste React](https://github.com/chetannada/Namaste-React) – Featured among [GitHub Trending repositories in February 2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view)
 - 🚀 [Top 200 GitHub Contributors in India](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india.md) by Public Contributions
-- 🧩 Solved 500+ DSA Problems on [LeetCode](https://leetcode.com/chetannada/)
-- 🏅 5-Star Problem Solving Badge on [HackerRank](https://www.hackerrank.com/chetannada)
-- 🥇 Top 1% Mentor on [Topmate](https://topmate.io/chetannada)
-
+- 🧩 Solved [500+ DSA Problems](https://leetcode.com/chetannada/) on LeetCode
+- 🏅 [5-Star Problem Solving Badge](https://www.hackerrank.com/chetannada) on HackerRank
+- 🥇 [Top 1% Mentor](https://topmate.io/chetannada) on Topmate
 
 ## 📫 Contact Me
 
@@ -58,33 +62,31 @@ Beyond professional work, I actively build open-source projects, contribute to t
 
 ## ♨ Languages and Tools
 
-> Technologies I've worked with across frontend, backend, styling, testing, DevOps, docs, and design:
+### 💻 Frontend
+React.js • Next.js • TypeScript • JavaScript • Redux Toolkit • Zustand • React Hook Form • Material UI • Tailwind CSS • Framer Motion
 
-⚛️ Frontend: 
-React.js, Next.js, TypeScript, JavaScript, Redux Toolkit, Zustand, React Hook Form, Material UI, Tailwind CSS, Framer Motion
+### ⚙️ Backend
+Node.js • Express.js • REST APIs • MongoDB • Mongoose • Redis
 
-⚙️ Backend: 
-Node.js, Express.js, MongoDB, Mongoose, Redis
+### 🔐 Authentication & Security
+JWT • OAuth 2.0 • RBAC • Session Management
 
-🏗️ Architecture: 
-SSR, Micro Frontends, Component Libraries, REST APIs, Design Systems
+### 🏗 Architecture
+SSR • Component Libraries • Design Systems • Micro Frontends • REST API Design
 
-🔐 Authentication & Security: 
-JWT, OAuth 2.0, RBAC, Redis Session Management
+### 🤖 AI
+Google Gemini API • LLM Integrations • Prompt Engineering
 
-🤖 AI & Integrations: 
-Google Gemini API, LLM Integrations, Prompt Engineering
-
-🧪 Testing & Quality: 
-Jest, React Testing Library, SonarQube, Snyk
-
+### 🧪 Testing & Quality
+Jest • React Testing Library • SonarQube • Snyk
 
 ## 🚀 Featured Projects
 
 ### [DevFoundry](https://github.com/chetannada/DevFoundry)
-Open-source MERN platform featuring machine coding challenges, AI-powered utilities, authentication systems, and community-driven project contributions.
+An open-source full-stack MERN platform featuring machine coding challenges, authentication, AI-powered developer utilities, reusable APIs, and community-driven contributions.
 
-**Tech:** React.js, Node.js, Express.js, MongoDB, Redux Toolkit, Gemini API
+**Tech Stack**
+React.js • Node.js • Express.js • MongoDB • Redux Toolkit • Gemini API
 
 ### [Namaste React](https://github.com/chetannada/Namaste-React)
 Community-driven learning repository with 2,000+ GitHub stars, 1,000+ forks and 20+ Open Source Contributors.
@@ -107,8 +109,22 @@ Published zero-dependency TypeScript utility package supporting 18+ string trans
 
 ---
 
-💡 I enjoy building products, solving frontend challenges, contributing to open source, and connecting with developers worldwide.
+## 🤝 Let's Connect
 
-🚀 Always interested in building impactful products, contributing to open source, and connecting with fellow developers.
+I'm always excited to collaborate on:
 
-Let's build something meaningful together.
+- 🚀 Full Stack MERN Projects
+- ⚛️ React & Next.js Applications
+- 🌍 Open Source
+- 🤖 AI-powered Products
+- 🎤 Technical Mentoring & Community Building
+
+If you're building something meaningful, I'd love to connect.
+
+## 🎯 Current Focus
+
+- Building Full Stack MERN applications
+- Learning System Design & Backend Architecture
+- Developing AI-powered developer tools
+- Growing impactful Open Source projects
+- Sharing knowledge through technical content
