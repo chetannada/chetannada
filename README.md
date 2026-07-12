@@ -1,130 +1,199 @@
 <div align="center">
-  <h1>Hi there 👋, I'm Chetan Nada</h1>
 
-<h3>
-Senior Frontend Engineer • Full Stack MERN Developer • Open Source Builder
+# Hi 👋 I'm Chetan Nada
 
-Building scalable full-stack web applications with React.js, Next.js, Node.js, Express.js, MongoDB, and TypeScript.
-Passionate about enterprise software, AI-powered developer tools, open source, and helping developers grow through content and mentorship.
-</h3>
+### Software Development Engineer 2 @ Careplix
+
+**Full Stack MERN Developer • AI Application Developer • Open Source Builder**
+
+Building scalable web applications with **React.js, Next.js, Node.js, TypeScript, MongoDB**, and **LLMs**.
+
+Passionate about **AI-powered products**, **enterprise software**, **open source**, and helping developers grow through technical content.
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=chetannada&style=flat-square&color=blue" />
+</p>
+
+<p>
+
+<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india.md">
+<img src="https://img.shields.io/badge/Top%20200-GitHub%20Contributors%20India-black"/>
+</a>
+
+<a href="https://www.linkedin.com/in/chetannada">
+<img src="https://img.shields.io/badge/LinkedIn-37K%2B%20Followers-blue"/>
+</a>
+
+<a href="https://topmate.io/chetannada">
+<img src="https://img.shields.io/badge/Topmate-Top%201%25%20Mentor-success"/>
+</a>
+
+<a href="https://github.com/chetannada/Namaste-React">
+<img src="https://img.shields.io/badge/Open%20Source-2K%2B%20GitHub%20Stars-orange"/>
+</a>
+
+</p>
 
 </div>
 
-<p align="center">
-  <img width="20%" src="https://komarev.com/ghpvc/?username=chetannada&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+---
 
-<p align="center">
-  <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india.md">
-    <img src="https://img.shields.io/badge/GitHub-Top%20200%20India-black" />
-  </a>
+# 🚀 About Me
 
-  <a href="https://www.linkedin.com/in/chetannada">
-    <img src="https://img.shields.io/badge/LinkedIn-35K%2B%20Followers-blue" />
-  </a>
+I'm a **Software Development Engineer 2 (SDE-2)** passionate about building scalable **Full Stack** applications and **AI-powered developer products**.
 
-  <a href="https://topmate.io/chetannada">
-    <img src="https://img.shields.io/badge/Topmate-Top%201%25-success" />
-  </a>
-</p>
+Over the past few years, I've delivered enterprise applications used in the healthcare and insurance industry while working across the complete software development lifecycle—from frontend architecture to backend APIs, authentication, databases, performance optimization, and deployment.
 
-## ✨ What I'm Building
+Alongside enterprise development, I actively build open-source products, create technical content, mentor developers, and explore how **Large Language Models (LLMs)** can improve developer productivity.
 
-- 🚀 Building scalable full-stack applications using the MERN stack, Next.js, and TypeScript.
-- ⚡ Designing modern frontend architectures with React.js, reusable component libraries, and performance-first development.
-- 🤖 Exploring AI-powered products using LLMs, intelligent workflows, and developer-focused tools.
-- 🌍 Growing open-source projects that help developers learn, build, and contribute.
+My goal is simple:
 
-## 👨‍💻 About Me
+> **Build software that solves real problems and help developers become better engineers.**
 
-I'm a Senior Frontend Engineer and Full Stack MERN Developer passionate about building products that are scalable, performant, and developer-friendly.
+---
 
-Professionally, I specialize in React.js, Next.js, TypeScript, Redux Toolkit, and modern frontend architecture. Alongside frontend engineering, I actively build full-stack applications using Node.js, Express.js, MongoDB, and Redis, developing secure REST APIs, authentication systems, and end-to-end web applications.
+# 🔥 What I'm Currently Building
 
-Outside of work, I contribute to open source, build developer tools, create educational content, and explore AI-powered applications using Large Language Models (LLMs) to solve real-world problems.
+- 🚀 Full Stack MERN Applications
+- 🤖 AI Applications powered by LLMs
+- 💬 Developer Productivity Tools
+- 🌍 Open Source Projects
+- 📚 Technical Content & Mentorship
 
+---
 
-## 🏆 Notable Achievements
+# 🏆 Achievements
 
-- ⭐ 2,000+ GitHub Stars & 🍴 1,000+ Repository Forks across Open Source Projects 
-- 👥 20+ Open Source Contributors on [Namaste React](https://github.com/chetannada/Namaste-React) – Featured among [GitHub Trending repositories in February 2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view)
-- 🚀 [Top 200 GitHub Contributors in India](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india.md) by Public Contributions
-- 🧩 Solved [500+ DSA Problems](https://leetcode.com/chetannada/) on LeetCode
-- 🏅 [5-Star Problem Solving Badge](https://www.hackerrank.com/chetannada) on HackerRank
-- 🥇 [Top 1% Mentor](https://topmate.io/chetannada) on Topmate
+- ⭐ **2,000+ GitHub Stars**
+- 🍴 **1,000+ Repository Forks**
+- 👥 **20+ Open Source Contributors**
+- 🚀 **Top 200 GitHub Contributor in India**
+- 🧩 **500+ LeetCode Problems Solved**
+- 🏅 **5★ HackerRank Problem Solving**
+- 🥇 **Top 1% Mentor on Topmate**
 
-## 📫 Contact Me
+---
 
-- 📧 Email: [call2chetannada@gmail.com](mailto:call2chetannada@gmail.com)
-- 💼 LinkedIn: [chetannada](https://www.linkedin.com/in/chetannada)
-- 💻 portfolio: [Chetan Nada](https://chetannada.netlify.app)
+# 💻 Tech Stack
 
+## Frontend
 
-## ♨ Languages and Tools
-
-### 💻 Frontend
 React.js • Next.js • TypeScript • JavaScript • Redux Toolkit • Zustand • React Hook Form • Material UI • Tailwind CSS • Framer Motion
 
-### ⚙️ Backend
-Node.js • Express.js • REST APIs • MongoDB • Mongoose • Redis
 
-### 🔐 Authentication & Security
-JWT • OAuth 2.0 • RBAC • Session Management
+## Backend
 
-### 🏗 Architecture
-SSR • Component Libraries • Design Systems • Micro Frontends • REST API Design
+Node.js • Express.js • MongoDB • Mongoose • Redis • REST APIs
 
-### 🤖 AI
-Google Gemini API • LLM Integrations • Prompt Engineering
 
-### 🧪 Testing & Quality
+## Authentication & Security
+
+JWT • OAuth • RBAC • Session Management
+
+
+## AI
+
+LLM Integration • Google Gemini API • Prompt Engineering • AI Application Development • Function Calling • Streaming Responses
+
+
+## Architecture
+
+SSR • Micro Frontends • Reusable Component Libraries • Design Systems • REST API Design • Performance Optimization
+
+
+## Testing
+
 Jest • React Testing Library • SonarQube • Snyk
 
-## 🚀 Featured Projects
+---
 
-### [DevFoundry](https://github.com/chetannada/DevFoundry)
-An open-source full-stack MERN platform featuring machine coding challenges, authentication, AI-powered developer utilities, reusable APIs, and community-driven contributions.
+# 🚀 Featured Projects
 
-**Tech Stack**
+## 🌍 DevFoundry
+
+> Open-source Full Stack MERN platform for developers.
+
+### Features
+
+- Authentication
+- CRUD Operations
+- Machine Coding Challenges
+- AI Text Summarizer
+- Gemini AI Integration
+- REST APIs
+- Developer Utilities
+
+**Tech**
+
 React.js • Node.js • Express.js • MongoDB • Redux Toolkit • Gemini API
 
-### [Namaste React](https://github.com/chetannada/Namaste-React)
-Community-driven learning repository with 2,000+ GitHub stars, 1,000+ forks and 20+ Open Source Contributors.
+---
 
-### [string-conv](https://www.npmjs.com/package/string-conv)
-Published zero-dependency TypeScript utility package supporting 18+ string transformations with full TypeScript support and modern ESM/CommonJS compatibility.
+## ⭐ Namaste React
 
+Community-driven React learning repository with
 
-## 📊 GitHub Stats
+- ⭐ 2,000+ GitHub Stars
+- 🍴 1,000+ Forks
+- 👥 20+ Contributors
+
+Featured on [GitHub Trending](https://drive.google.com/file/d/1gOzX7KjXwKQpJuGz4zuqfz4xTIsqvuen/view?usp=sharing).
+
+---
+
+## 📦 string-conv
+
+A lightweight TypeScript utility library supporting
+
+✅ 18+ string transformations
+
+✅ Zero Dependencies
+
+✅ TypeScript
+
+✅ ESM + CommonJS
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=chetannada&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-## 🏆 GitHub Trophy Cabinet
-
-<p align="center">
-  <img width="80%" src="https://github-trophies.vercel.app/?username=chetannada&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=Stars,Followers,Commits,PullRequest,Reviews,Repositories,Issues" alt="Trophies" />
+<img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=chetannada&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+# 🏆 GitHub Trophy Cabinet
 
-I'm always excited to collaborate on:
+<p align="center"> <img width="80%" src="https://github-trophies.vercel.app/?username=chetannada&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=Stars,Followers,Commits,PullRequest,Reviews,Repositories,Issues" alt="Trophies" /> </p>
 
-- 🚀 Full Stack MERN Projects
-- ⚛️ React & Next.js Applications
-- 🌍 Open Source
-- 🤖 AI-powered Products
-- 🎤 Technical Mentoring & Community Building
+---
 
-If you're building something meaningful, I'd love to connect.
+# 🎯 2026 Goals
 
-## 🎯 Current Focus
+- 🚀 Build Production AI Applications
+- 🤖 Learn AI Agents & MCP
+- 🧠 Master RAG & Vector Databases
+- ⚙️ Deepen Backend & System Design expertise
+- 🌍 Grow impactful Open Source projects
+- 📚 Help 100K+ developers through content
 
-- Building Full Stack MERN applications
-- Learning System Design & Backend Architecture
-- Developing AI-powered developer tools
-- Growing impactful Open Source projects
-- Sharing knowledge through technical content
+---
+
+# 🤝 Let's Connect
+
+I'm always happy to collaborate on
+
+- Full Stack MERN Applications
+- AI Products
+- React & Next.js
+- Open Source
+- Technical Mentorship
+
+📧 **Email:** **call2chetannada@gmail.com**
+
+💼 **LinkedIn:** https://linkedin.com/in/chetannada
+
+🌐 **Portfolio:** https://chetannada.netlify.app
+
+⭐ If you enjoy my projects, consider giving them a star!
