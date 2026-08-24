@@ -109,6 +109,23 @@ Jest • React Testing Library • SonarQube • Snyk
 
 # 🚀 Featured Projects
 
+## 🤖 Namaste AI
+
+> My AI learning journey — **learning in public, making handwritten notes, and building AI-powered projects.** 🚀
+
+Currently exploring **LLMs, Generative AI, RAG, AI Agents, MCP, and AI application development** through the [Namaste AI course](https://namastedev.com/learn/namaste-ai?_aff=946684804112) by **Akshay Saini & NamasteDev**.
+
+### 📚 What I'm Building
+
+- ✍️ Handwritten notes for each episode
+- 🧠 AI concepts and learning resources
+- 🛠️ Projects and experiments built during the course
+- 🌍 Sharing the complete journey publicly
+
+🔗 **[Explore Namaste AI →](https://github.com/chetannada/Namaste-AI)**  
+🌐 **[Live Demo →](https://namaste-ai-dev.vercel.app)**
+
+
 ## 🌍 DevFoundry
 
 > Open-source Full Stack MERN platform for developers.
@@ -127,6 +144,9 @@ Jest • React Testing Library • SonarQube • Snyk
 
 React.js • Node.js • Express.js • MongoDB • Redux Toolkit • Gemini API
 
+🔗 **[Explore DevFoundry →](https://github.com/chetannada/DevFoundry)**  
+🌐 **[Live Demo →](https://devfoundry.netlify.app)**
+
 ---
 
 ## ⭐ Namaste React
@@ -138,6 +158,9 @@ Community-driven React learning repository with
 - 👥 20+ Contributors
 
 Featured on [GitHub Trending](https://drive.google.com/file/d/1gOzX7KjXwKQpJuGz4zuqfz4xTIsqvuen/view?usp=sharing).
+
+🔗 **[Explore Namaste React →](https://github.com/chetannada/Namaste-React)**  
+🌐 **[Live Demo →](https://foodfire-app.netlify.app)**
 
 ---
 
@@ -152,6 +175,9 @@ A lightweight TypeScript utility library supporting
 ✅ TypeScript
 
 ✅ ESM + CommonJS
+
+🔗 **[Explore string-conv →](https://github.com/chetannada/string-conv)**  
+🌐 **[Live Demo →](https://www.npmjs.com/package/string-conv)**
 
 ---
 
@@ -193,6 +219,8 @@ I'm always happy to collaborate on
 📧 **Email:** **call2chetannada@gmail.com**
 
 💼 **LinkedIn:** https://linkedin.com/in/chetannada
+
+🧩 **X (Twitter):** https://x.com/chetannada
 
 🌐 **Portfolio:** https://chetannada.netlify.app
 
