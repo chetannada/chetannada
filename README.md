@@ -37,28 +37,35 @@ Passionate about **AI-powered products**, **enterprise software**, **open source
 </div>
 
 ---
-
 # 🚀 About Me
 
-I'm a **Software Development Engineer 2 (SDE-2)** passionate about building scalable **Full Stack** applications and **AI-powered developer products**.
+I'm a **Software Development Engineer 2 (SDE-2)** who enjoys building **scalable Full Stack applications, AI-powered products, and developer-focused tools**.
 
-Over the past few years, I've delivered enterprise applications used in the healthcare and insurance industry while working across the complete software development lifecycle—from frontend architecture to backend APIs, authentication, databases, performance optimization, and deployment.
+I work across the stack — from **frontend architecture and backend APIs to databases, authentication, performance optimization, testing, and deployment** — with a strong focus on building software that is reliable, maintainable, and useful.
 
-Alongside enterprise development, I actively build open-source products, create technical content, mentor developers, and explore how **Large Language Models (LLMs)** can improve developer productivity.
+Beyond my day job, I actively build **open-source projects**, create technical content, mentor developers, and explore how **LLMs and modern AI technologies** can solve real-world developer and business problems.
+
+I'm currently combining my **Full Stack engineering experience with AI application development** to build practical products, experiment with new ideas, and share what I learn with the developer community.
 
 My goal is simple:
 
-> **Build software that solves real problems and help developers become better engineers.**
+> **Build things that solve real problems. Learn in public. Share what you learn. 🚀**
 
 ---
 
 # 🔥 What I'm Currently Building
 
-- 🚀 Full Stack MERN Applications
-- 🤖 AI Applications powered by LLMs
-- 💬 Developer Productivity Tools
-- 🌍 Open Source Projects
-- 📚 Technical Content & Mentorship
+I'm currently focused on the intersection of **Full Stack Engineering + AI**. 🤖
+
+- 🤖 **AI Applications** — Building practical products powered by LLMs and modern AI APIs
+- 🧠 **AI Engineering** — Exploring LLMs, RAG, AI Agents, MCP, Vector Databases, and Agentic AI
+- 🚀 **Developer Tools** — Building tools that make developers faster and help simplify complex engineering workflows
+- ✍️ **Namaste AI** — Sharing my AI learning journey through handwritten notes, experiments, and projects
+- 🌍 **Open Source** — Building and maintaining projects that help developers learn and build better software
+- 📚 **Technical Content** — Sharing engineering knowledge, practical learnings, and development experiences
+- 🛠️ **Continuous Learning** — Turning what I learn into real projects instead of stopping at theory
+
+> **Learn → Build → Share → Improve. 🔥**
 
 ---
 
@@ -125,6 +132,31 @@ Currently exploring **LLMs, Generative AI, RAG, AI Agents, MCP, and AI applicati
 🔗 **[Explore Namaste AI →](https://github.com/chetannada/Namaste-AI)**  
 🌐 **[Live Demo →](https://namaste-ai-dev.vercel.app)**
 
+
+---
+
+## 🤖 Repo Spark
+
+> **AI-powered repository onboarding assistant that helps developers understand unfamiliar GitHub codebases faster.** ⚡
+
+Repo Spark takes a public GitHub repository and uses **GitHub API + Google Gemini** to turn complex codebases into structured, developer-friendly insights.
+
+### ✨ What It Does
+
+- 🔍 Analyzes repository metadata, README, and project structure
+- 🏗️ Explains architecture and folder structure
+- 🧭 Creates interactive folder guides for easier navigation
+- 🛣️ Generates personalized learning paths
+- ⚙️ Provides setup and contribution guidance
+- ❤️ Performs repository health analysis
+- 🤖 Uses LLMs to transform raw repository information into useful insights
+
+Built with **Next.js, TypeScript, Google Gemini, GitHub API, and AI-assisted development**.
+
+🔗 **[Explore RepoSpark →](https://github.com/chetannada/RepoSpark)**
+🌐 **[Live Demo →](https://repospark.vercel.app)**
+
+---
 
 ## 🌍 DevFoundry
 
