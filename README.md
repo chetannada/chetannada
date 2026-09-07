@@ -37,7 +37,7 @@ Passionate about **AI-powered products**, **enterprise software**, **open source
 </div>
 
 
-# 🚀 About Me
+## 🚀 About Me
 
 I'm a **Software Development Engineer 2 (SDE-2)** who enjoys building **scalable Full Stack applications, AI-powered products, and developer-focused tools**.
 
@@ -52,7 +52,7 @@ My goal is simple:
 > **Build things that solve real problems. Learn in public. Share what you learn. 🚀**
 
 
-# 🔥 What I'm Currently Building
+## 🔥 What I'm Currently Building
 
 I'm currently focused on the intersection of **Full Stack Engineering + AI**. 🤖
 
@@ -65,7 +65,7 @@ I'm currently focused on the intersection of **Full Stack Engineering + AI**. �
 - 🛠️ **Continuous Learning** — Turning what I learn into real projects instead of stopping at theory
 
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 - ⭐ **2,000+ GitHub Stars**
 - 🍴 **1,000+ Repository Forks**
@@ -76,9 +76,9 @@ I'm currently focused on the intersection of **Full Stack Engineering + AI**. �
 - 🥇 **Top 1% Mentor on Topmate**
 
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## ⭐ Namaste React
+### ⭐ Namaste React
 
 Community-driven React learning repository with
 
@@ -92,7 +92,7 @@ Featured on [GitHub Trending](https://drive.google.com/file/d/1gOzX7KjXwKQpJuGz4
 🌐 **[Live Demo →](https://foodfire-app.netlify.app)**
 
 
-## 🤖 Namaste AI
+### 🤖 Namaste AI
 
 > My AI learning journey — **learning in public, making handwritten notes, and building AI-powered projects.** 🚀
 
@@ -109,7 +109,7 @@ Currently exploring **LLMs, Generative AI, RAG, AI Agents, MCP, and AI applicati
 🌐 **[Live Demo →](https://namaste-ai-dev.vercel.app)**
 
 
-## 🤖 Repo Spark
+### 🤖 Repo Spark
 
 > **AI-powered repository onboarding assistant that helps developers understand unfamiliar GitHub codebases faster.** ⚡
 
@@ -131,7 +131,7 @@ Built with **Next.js, TypeScript, Google Gemini, GitHub API, and AI-assisted dev
 🌐 **[Live Demo →](https://repospark.vercel.app)**
 
 
-## 🌍 DevFoundry
+### 🌍 DevFoundry
 
 > Open-source Full Stack MERN platform for developers.
 
@@ -153,18 +153,18 @@ React.js • Node.js • Express.js • MongoDB • Redux Toolkit • Gemini API
 🌐 **[Live Demo →](https://devfoundry.netlify.app)**
 
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=chetannada&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
 </p>
 
 
-# 🏆 GitHub Trophy Cabinet
+## 🏆 GitHub Trophy Cabinet
 
 <p align="center"> <img width="80%" src="https://github-trophies.vercel.app/?username=chetannada&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=Stars,Followers,Commits,PullRequest,Reviews,Repositories,Issues" alt="Trophies" /> </p>
 
-# 🎯 2026 Goals
+## 🎯 2026 Goals
 
 - 🚀 Build Production AI Applications
 - 🤖 Learn AI Agents & MCP
@@ -174,7 +174,7 @@ React.js • Node.js • Express.js • MongoDB • Redux Toolkit • Gemini API
 - 📚 Help 100K+ developers through content
 
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 I'm always happy to collaborate on
 
