@@ -36,7 +36,7 @@ Passionate about **AI-powered products**, **enterprise software**, **open source
 
 </div>
 
----
+
 # 🚀 About Me
 
 I'm a **Software Development Engineer 2 (SDE-2)** who enjoys building **scalable Full Stack applications, AI-powered products, and developer-focused tools**.
@@ -51,7 +51,6 @@ My goal is simple:
 
 > **Build things that solve real problems. Learn in public. Share what you learn. 🚀**
 
----
 
 # 🔥 What I'm Currently Building
 
@@ -65,9 +64,6 @@ I'm currently focused on the intersection of **Full Stack Engineering + AI**. �
 - 📚 **Technical Content** — Sharing engineering knowledge, practical learnings, and development experiences
 - 🛠️ **Continuous Learning** — Turning what I learn into real projects instead of stopping at theory
 
-> **Learn → Build → Share → Improve. 🔥**
-
----
 
 # 🏆 Achievements
 
@@ -79,42 +75,22 @@ I'm currently focused on the intersection of **Full Stack Engineering + AI**. �
 - 🏅 **5★ HackerRank Problem Solving**
 - 🥇 **Top 1% Mentor on Topmate**
 
----
-
-# 💻 Tech Stack
-
-## Frontend
-
-React.js • Next.js • TypeScript • JavaScript • Redux Toolkit • Zustand • React Hook Form • Material UI • Tailwind CSS • Framer Motion
-
-
-## Backend
-
-Node.js • Express.js • MongoDB • Mongoose • Redis • REST APIs
-
-
-## Authentication & Security
-
-JWT • OAuth • RBAC • Session Management
-
-
-## AI
-
-LLM Integration • Google Gemini API • Prompt Engineering • AI Application Development • Function Calling • Streaming Responses
-
-
-## Architecture
-
-SSR • Micro Frontends • Reusable Component Libraries • Design Systems • REST API Design • Performance Optimization
-
-
-## Testing
-
-Jest • React Testing Library • SonarQube • Snyk
-
----
 
 # 🚀 Featured Projects
+
+## ⭐ Namaste React
+
+Community-driven React learning repository with
+
+- ⭐ 2,000+ GitHub Stars
+- 🍴 1,000+ Forks
+- 👥 20+ Contributors
+
+Featured on [GitHub Trending](https://drive.google.com/file/d/1gOzX7KjXwKQpJuGz4zuqfz4xTIsqvuen/view?usp=sharing).
+
+🔗 **[Explore Namaste React →](https://github.com/chetannada/Namaste-React)**  
+🌐 **[Live Demo →](https://foodfire-app.netlify.app)**
+
 
 ## 🤖 Namaste AI
 
@@ -132,8 +108,6 @@ Currently exploring **LLMs, Generative AI, RAG, AI Agents, MCP, and AI applicati
 🔗 **[Explore Namaste AI →](https://github.com/chetannada/Namaste-AI)**  
 🌐 **[Live Demo →](https://namaste-ai-dev.vercel.app)**
 
-
----
 
 ## 🤖 Repo Spark
 
@@ -156,7 +130,6 @@ Built with **Next.js, TypeScript, Google Gemini, GitHub API, and AI-assisted dev
 🔗 **[Explore RepoSpark →](https://github.com/chetannada/RepoSpark)**
 🌐 **[Live Demo →](https://repospark.vercel.app)**
 
----
 
 ## 🌍 DevFoundry
 
@@ -179,39 +152,6 @@ React.js • Node.js • Express.js • MongoDB • Redux Toolkit • Gemini API
 🔗 **[Explore DevFoundry →](https://github.com/chetannada/DevFoundry)**  
 🌐 **[Live Demo →](https://devfoundry.netlify.app)**
 
----
-
-## ⭐ Namaste React
-
-Community-driven React learning repository with
-
-- ⭐ 2,000+ GitHub Stars
-- 🍴 1,000+ Forks
-- 👥 20+ Contributors
-
-Featured on [GitHub Trending](https://drive.google.com/file/d/1gOzX7KjXwKQpJuGz4zuqfz4xTIsqvuen/view?usp=sharing).
-
-🔗 **[Explore Namaste React →](https://github.com/chetannada/Namaste-React)**  
-🌐 **[Live Demo →](https://foodfire-app.netlify.app)**
-
----
-
-## 📦 string-conv
-
-A lightweight TypeScript utility library supporting
-
-✅ 18+ string transformations
-
-✅ Zero Dependencies
-
-✅ TypeScript
-
-✅ ESM + CommonJS
-
-🔗 **[Explore string-conv →](https://github.com/chetannada/string-conv)**  
-🌐 **[Live Demo →](https://www.npmjs.com/package/string-conv)**
-
----
 
 # 📊 GitHub Stats
 
@@ -219,13 +159,10 @@ A lightweight TypeScript utility library supporting
 <img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=chetannada&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
 </p>
 
----
 
 # 🏆 GitHub Trophy Cabinet
 
 <p align="center"> <img width="80%" src="https://github-trophies.vercel.app/?username=chetannada&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=Stars,Followers,Commits,PullRequest,Reviews,Repositories,Issues" alt="Trophies" /> </p>
-
----
 
 # 🎯 2026 Goals
 
@@ -236,7 +173,6 @@ A lightweight TypeScript utility library supporting
 - 🌍 Grow impactful Open Source projects
 - 📚 Help 100K+ developers through content
 
----
 
 # 🤝 Let's Connect
 
