@@ -103,7 +103,9 @@ Community-driven React learning repository with
 - 🍴 1,000+ Forks
 - 👥 20+ Contributors
 
-Featured on [GitHub Trending](https://drive.google.com/file/d/1gOzX7KjXwKQpJuGz4zuqfz4xTIsqvuen/view?usp=sharing).
+<a href="https://trendshift.io/repositories/2686?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-2686" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/2686" alt="chetannada%2FNamaste-React | Trendshift" width="250" height="55"/></a>
+
+Featured on [GitHub Trending 🚀](https://drive.google.com/file/d/1gOzX7KjXwKQpJuGz4zuqfz4xTIsqvuen/view?usp=sharing).
 
 🔗 [Explore Namaste React ↗](https://github.com/chetannada/Namaste-React)  
 🌐 [Live Demo ↗](https://foodfire-app.netlify.app)
