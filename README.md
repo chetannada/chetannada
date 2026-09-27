@@ -2,9 +2,9 @@
 
 # Hi 👋 I'm Chetan Nada
 
-### AI Engineer • Full-Stack AI Developer
+Full-Stack AI Developer
 
-Building AI-powered applications with LLMs • MERN • Next.js • TypeScript
+Building Full-Stack applications with LLMs • MERN • Next.js • TypeScript
 
 I build practical AI applications by combining LLMs, Generative AI, and full-stack engineering to solve real-world problems.
 
@@ -39,7 +39,7 @@ Passionate about AI application development, developer tools, open source, and b
 
 ## 🤖 About Me
 
-I'm an AI Engineer and Full-Stack AI Developer focused on building AI-powered web applications that turn LLM capabilities into practical, real-world products.
+I'm Full-Stack AI Developer focused on building AI-powered web applications that turn LLM capabilities into practical, real-world products.
 
 My foundation is full-stack development, with experience building applications using React, Next.js, TypeScript, JavaScript, Node.js, Express.js, MongoDB, and Redis. I currently work as a Software Engineer @ Careplix, where I've contributed to enterprise applications across frontend architecture, backend APIs, performance optimization, testing, and deployment.
 
