@@ -2,34 +2,33 @@
 
 # Hi 👋 I'm Chetan Nada
 
-Full-Stack AI Developer
+Frontend Developer | React.js • Next.js • TypeScript
 
-Building Full-Stack applications with LLMs • MERN • Next.js • TypeScript
+Building responsive, scalable web applications and exploring MERN Stack & AI-powered projects.
 
-I build practical AI applications by combining LLMs, Generative AI, and full-stack engineering to solve real-world problems.
-
-Passionate about AI application development, developer tools, open source, and building products that are genuinely useful.
+I enjoy turning ideas into useful products, contributing to open source, and continuously learning new technologies.
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=chetannada&style=flat-square&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=chetannada&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 <p>
 
-<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india.md">
-<img src="https://img.shields.io/badge/Top%20200-GitHub%20Contributor%20in%20India-red"/>
+<a href="https://github.com/chetannada/Namaste-React">
+<img src="https://img.shields.io/badge/Open%20Source-2K%2B%20GitHub%20Stars-orange" alt="2K+ GitHub Stars" />
 </a>
 
-<a href="https://github.com/chetannada/Namaste-React">
-<img src="https://img.shields.io/badge/Open%20Source-2K%2B%20GitHub%20Stars-orange"/>
+<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india.md">
+<img src="https://img.shields.io/badge/Top%20200-GitHub%20Contributor%20in%20India-red" alt="Top 200 GitHub Contributor in India" />
 </a>
+
 
 <a href="https://www.linkedin.com/in/chetannada">
-<img src="https://img.shields.io/badge/LinkedIn-37K%2B%20Followers-blue"/>
+<img src="https://img.shields.io/badge/LinkedIn-38K%2B%20Followers-blue" alt="38K+ LinkedIn Followers" />
 </a>
 
 <a href="https://topmate.io/chetannada">
-<img src="https://img.shields.io/badge/Topmate-Top%201%25%20Mentor-success"/>
+<img src="https://img.shields.io/badge/Topmate-Top%201%25%20Mentor-success" alt="Top 1% Mentor" />
 </a>
 
 </p>
@@ -39,65 +38,82 @@ Passionate about AI application development, developer tools, open source, and b
 
 ## 🤖 About Me
 
-I'm Full-Stack AI Developer focused on building AI-powered web applications that turn LLM capabilities into practical, real-world products.
+I'm a Frontend Developer - SDE II at Careplix, focused on building responsive, scalable, and user-friendly enterprise grade web applications.
 
-My foundation is full-stack development, with experience building applications using React, Next.js, TypeScript, JavaScript, Node.js, Express.js, MongoDB, and Redis. I currently work as a Software Engineer @ Careplix, where I've contributed to enterprise applications across frontend architecture, backend APIs, performance optimization, testing, and deployment.
+My primary focus is frontend development using React.js, Next.js, TypeScript, and JavaScript. I enjoy creating clean user interfaces, improving application performance, and building maintainable frontend architectures.
 
-My current focus is AI application development. I'm actively learning and building with:
-- 🤖 LLMs & Generative AI
-- 🔎 RAG & AI-powered search
-- 🧠 AI Agents & Agentic AI
-- 🔌 MCP & AI integrations
-- ⚡ LLM-powered developer tools
-- 🏗️ AI + Full-Stack application architecture
+Alongside my professional work, I have experience with Node.js, Express.js, MongoDB, Redis, and REST APIs, which helps me build and understand full-stack applications.
 
 **🌱 What I Believe**
 > Learn → Build → Share → Improve. 🚀
 
-## 🏆 Achievements
+## 🏆 Achievements & Highlights
 
 - 🚀 **Top 200 GitHub Contributor in India**
 - ⭐ **2,000+ GitHub Stars**
 - 🍴 **1,000+ Repository Forks**
 - 👥 **20+ Open Source Contributors**
+- 🔥 **Namaste React — Featured on GitHub Trending**
 - 🧩 **600+ LeetCode Problems Solved**
 - 🏅 **5★ HackerRank Problem Solving**
 - 🥇 **Top 1% Mentor on Topmate**
 
+## 🛠️ Tech Stack
 
-## 🤝 Let's Connect
-If you're interested in AI application development, LLMs, full-stack engineering, developer tools, or open source, feel free to connect or explore my repositories. If you enjoy my repos, consider giving them a star! ⭐
+Frontend Development
 
-📧 **Email:** **call2chetannada@gmail.com**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,mui" alt="Frontend Technologies" />
+</p>
 
-💼 **LinkedIn:** https://linkedin.com/in/chetannada
+Backend & Database
 
-🧩 **X (Twitter):** https://x.com/chetannada
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" alt="Backend Technologies" />
+</p>
 
-🌐 **Portfolio:** https://chetannada.netlify.app
+Tools & Testing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,jest,githubactions" alt="Development Tools" />
+</p>
+
+AI & Generative AI
+- LLM Integration
+- Google Gemini API
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- AI Agents & MCP
+- AI Application Development
 
 ## 🚀 Featured Projects
 
 ### 🤖 Namaste AI
 
-> My AI learning journey — Digital handwritten notes, and building AI-powered projects. 🚀
+> Learn AI. Build with AI. 🚀
 
 Currently exploring **LLMs, Generative AI, RAG, AI Agents, MCP, and AI application development** through the Namaste AI course.
 
 ### 📚 What I'm Building
 
-- ✍️ Handwritten notes for each episode
+- ✍️ Digital handwritten notes for course episodes
 - 🧠 AI concepts and learning resources
-- 🛠️ Projects and experiments built during the course
-- 🌍 Sharing the complete journey publicly
+- 🛠️ Practical assignments and projects
+- 🤖 Experiments with LLMs, RAG, AI Agents, and MCP
+- 🌍 Sharing my learning journey publicly
 
-🔗 [Explore Namaste AI ↗](https://github.com/chetannada/Namaste-AI)  
+🔗 [GitHub Repository ↗](https://github.com/chetannada/Namaste-AI)  
 🌐 [Live Demo ↗](https://namaste-ai-dev.vercel.app)
 
+---
 
 ### ⭐ Namaste React
 
-Community-driven React learning repository with
+> Community-driven React learning repository.
+
+An open-source learning resource for developers exploring React.js through practical examples and concepts.
+
+Community Highlights:
 
 - ⭐ 2,000+ GitHub Stars
 - 🍴 1,000+ Forks
@@ -107,43 +123,46 @@ Community-driven React learning repository with
 
 Featured on [GitHub Trending 🚀](https://drive.google.com/file/d/1gOzX7KjXwKQpJuGz4zuqfz4xTIsqvuen/view?usp=sharing).
 
-🔗 [Explore Namaste React ↗](https://github.com/chetannada/Namaste-React)  
+🔗 [GitHub Repository ↗](https://github.com/chetannada/Namaste-React)  
 🌐 [Live Demo ↗](https://foodfire-app.netlify.app)
 
+---
 
 ### 🤖 Repo Spark
 
-> AI-powered repository onboarding assistant that helps developers understand unfamiliar GitHub codebases faster. ⚡
+> AAI-powered GitHub repository onboarding assistant.
 
-Repo Spark takes a public GitHub repository and uses **GitHub API + Google Gemini** to turn complex codebases into structured, developer-friendly insights.
+RepoSpark helps developers understand unfamiliar GitHub repositories faster by transforming repository information into structured, developer-friendly insights.
 
-### ✨ What It Does
+### ✨ Features:
 
 - 🔍 Analyzes repository metadata, README, and project structure
-- 🏗️ Explains architecture and folder structure
-- ❤️ Performs repository health analysis
-- 🤖 Uses LLMs to transform raw repository information into useful insights
+- 🏗️ Generates architecture explanations and folder guides
+- 📚 Creates repository-specific learning paths
+- ⚙️ Provides setup instructions and contribution guidance
+- ❤️ Offers repository health insights
 
-Built with **Next.js, TypeScript, Google Gemini, GitHub API, and AI-assisted development**.
+Built with: Next.js • TypeScript • Google Gemini API • GitHub API
 
-🔗 [Explore RepoSpark ↗](https://github.com/chetannada/RepoSpark)
+🔗 [GitHub Repository ↗](https://github.com/chetannada/RepoSpark)
 🌐 [Live Demo ↗](https://repospark.vercel.app)
 
+---
 
 ### 🌍 DevFoundry
 
 > Open-source hands-on machine coding projects for developers.
 
+A practical platform featuring hands-on development challenges and full-stack application implementations.
+
 ### Features
 
-- Machine Coding Challenges
-- Authentication
-- CRUD Operations
-- Gemini AI Integration
+- 💻 Machine Coding Challenges
+- 🔐 Authentication
+- 📝 CRUD Operations
+- 🤖 Gemini AI Integration
 
-**Tech**
-
-React.js • Node.js • Express.js • MongoDB • Redux Toolkit • Gemini API
+Built with: React.js • Node.js • Express.js • MongoDB • Redux Toolkit • Gemini API
 
 🔗 [Explore DevFoundry ↗](https://github.com/chetannada/DevFoundry)  
 🌐 [Live Demo ↗](https://devfoundry.netlify.app)
@@ -152,11 +171,25 @@ React.js • Node.js • Express.js • MongoDB • Redux Toolkit • Gemini API
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=chetannada&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+<img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=chetannada&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 
 ## 🏆 GitHub Trophy Cabinet
 
-<p align="center"> <img width="80%" src="https://github-trophies.vercel.app/?username=chetannada&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=Stars,Followers,Commits,PullRequest,Reviews,Repositories,Issues" alt="Trophies" /> </p>
+<p align="center"> <img width="80%" src="https://github-trophies.vercel.app/?username=chetannada&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=Stars,Followers,Commits,PullRequest,Reviews,Repositories,Issues" alt="GitHub Trophies" /> </p>
 
+
+## 🤝 Let's Connect
+
+I'm always happy to connect with developers, explore interesting projects, contribute to open source, and share knowledge.
+
+If you find my projects useful, consider giving them a ⭐!
+
+📧 **Email:** **call2chetannada@gmail.com**
+
+💼 **LinkedIn:** https://linkedin.com/in/chetannada
+
+🧩 **X (Twitter):** https://x.com/chetannada
+
+🌐 **Portfolio:** https://chetannada.netlify.app
